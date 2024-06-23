@@ -29,4 +29,4 @@ jobs:
       - name: Delete old container
         run: docker rm -f coffee_shop_container_frontend
       - name: Run Docker Container
-        run: docker run -d -p 5174:5174 --name coffee_shop_container_frontend akshitmittal20/coffee_shop_img_frontend
+        run: docker run -d -p 5173:5173 --name coffee_shop_container_frontend akshitmittal20/coffee_shop_img_frontend
