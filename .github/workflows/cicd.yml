@@ -25,7 +25,7 @@ jobs:
     runs-on: self-hosted 
     steps:
       - name: Pull image from docker hub
-        run: docker pull akshitmittal20/coffee_shop_img_frontend:latest (DockerHub Username/Repository Name:latest )
+        run: docker pull akshitmittal20/coffee_shop_img_frontend:latest
       - name: Delete old container
         run: docker rm -f coffee_shop_container_frontend
       - name: Run Docker Container
