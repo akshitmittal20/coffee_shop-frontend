@@ -1,4 +1,6 @@
 # Coffee Shop Finder App - Frontend
+<img width="1280" alt="Screenshot 2024-06-26 at 3 25 50 PM" src="https://github.com/akshitmittal20/coffee_shop-frontend/assets/63283989/e29f1fc8-22ff-4ff8-8cc0-0a981c8b8887">
+<img width="1280" alt="Screenshot 2024-06-26 at 3 26 25 PM" src="https://github.com/akshitmittal20/coffee_shop-frontend/assets/63283989/2a614e30-478d-458c-a89b-c305d000fd2b">
 
 ## Overview
 
