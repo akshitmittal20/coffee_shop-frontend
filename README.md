@@ -66,7 +66,7 @@ Configure an EC2 instance.
 Install Docker and GitHub Actions runner.
 Pull the Docker image from DockerHub and run the container.
 Access URLs
-Backend API: http://44.202.166.106:5000/api
+Backend API: http://44.202.166.106:5555/api
 Frontend Application: http://44.202.166.106:5173
 Bonus (Advanced Search Capabilities)
 Implement advanced search filters and sorting options to allow users to refine their search based on criteria such as distance, rating, or menu items. Utilize Elasticsearch or a similar technology to enhance search functionality.
